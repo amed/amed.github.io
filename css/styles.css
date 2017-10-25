@@ -1,0 +1,14 @@
+body {
+  background-color: #F5FCFF;
+  color: #484848;
+  font-family: proxima-nova, Helvetica, Arial, sans-serif;
+  font-size: 16px; }
+
+a {
+  color: #484848; }
+
+.hero {
+  width: 50%;
+  margin: 10% auto;
+  text-align: center;
+  padding: 20px; }
